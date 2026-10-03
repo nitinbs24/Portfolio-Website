@@ -11,6 +11,7 @@
         "@babel/preset-env": "^7.16.11",
         "@babel/preset-react": "^7.16.7",
         "@tweenjs/tween.js": "^18.6.4",
+        "@types/node": "18.19.130",
         "@types/tweenjs": "^1.0.4",
         "babel-loader": "^8.2.3",
         "bezier-easing": "^2.1.0",
